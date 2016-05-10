@@ -1,0 +1,19 @@
+{
+  "name": "SzSdk",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "joi": "^8.0.4",
+    "js-base64": "^2.1.9",
+    "node-base64-image": "^0.1.2",
+    "promise": "^7.1.1",
+    "request": "^2.72.0"
+  }
+}

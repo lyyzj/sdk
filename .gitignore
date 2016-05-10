@@ -1,0 +1,8 @@
+idea
+node_modules
+build
+log/*
+npm-debug.log
+*.so
+test.js
+testModule.js
